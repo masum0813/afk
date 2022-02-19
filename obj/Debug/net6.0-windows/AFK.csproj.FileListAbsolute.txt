@@ -1,0 +1,17 @@
+C:\Users\murat.oguz\source\repos\AFK\bin\Debug\net6.0-windows\AFK.exe
+C:\Users\murat.oguz\source\repos\AFK\bin\Debug\net6.0-windows\AFK.deps.json
+C:\Users\murat.oguz\source\repos\AFK\bin\Debug\net6.0-windows\AFK.runtimeconfig.json
+C:\Users\murat.oguz\source\repos\AFK\bin\Debug\net6.0-windows\AFK.dll
+C:\Users\murat.oguz\source\repos\AFK\bin\Debug\net6.0-windows\ref\AFK.dll
+C:\Users\murat.oguz\source\repos\AFK\bin\Debug\net6.0-windows\AFK.pdb
+C:\Users\murat.oguz\source\repos\AFK\obj\Debug\net6.0-windows\AFK.csproj.AssemblyReference.cache
+C:\Users\murat.oguz\source\repos\AFK\obj\Debug\net6.0-windows\AFK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat.oguz\source\repos\AFK\obj\Debug\net6.0-windows\AFK.AssemblyInfoInputs.cache
+C:\Users\murat.oguz\source\repos\AFK\obj\Debug\net6.0-windows\AFK.AssemblyInfo.cs
+C:\Users\murat.oguz\source\repos\AFK\obj\Debug\net6.0-windows\AFK.csproj.CoreCompileInputs.cache
+C:\Users\murat.oguz\source\repos\AFK\obj\Debug\net6.0-windows\AFK.dll
+C:\Users\murat.oguz\source\repos\AFK\obj\Debug\net6.0-windows\ref\AFK.dll
+C:\Users\murat.oguz\source\repos\AFK\obj\Debug\net6.0-windows\AFK.pdb
+C:\Users\murat.oguz\source\repos\AFK\obj\Debug\net6.0-windows\AFK.genruntimeconfig.cache
+C:\Users\murat.oguz\source\repos\AFK\obj\Debug\net6.0-windows\AFK.MainForm.resources
+C:\Users\murat.oguz\source\repos\AFK\obj\Debug\net6.0-windows\AFK.csproj.GenerateResource.cache
